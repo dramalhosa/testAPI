@@ -1,6 +1,5 @@
 {
   "Post": {
-    "_": {
       "items": 10,
       "data": [
         {
@@ -72,5 +71,4 @@
     "post": {
       "belongsTo": "Post"
     }
-  }
 }
